@@ -4,4 +4,6 @@ Test Line 1
 
 Test Line 2
 
+Separate Branching Changes
+
 Master Final Change
